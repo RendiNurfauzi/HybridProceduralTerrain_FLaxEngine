@@ -1,10 +1,17 @@
 ﻿{
   "profiles": {
-    "Game": {
+    "AdvancedTerrainTools": {
       "commandName": "Executable",
-      "workingDirectory": "D:/Project/FLAX/OpenWorldProject/Advanced Terrain Tools",
+      "workingDirectory": "C:/Users/willi/OneDrive/Documents/Flax Projects/HybridProceduralTerrain_FLaxEngine",
       "executablePath": "C:/Program Files (x86)/Flax/Flax_1.11/Binaries/Editor/Win64/Development/FlaxEditor.exe",
-      "commandLineArgs": "-project \"D:/Project/FLAX/OpenWorldProject/Advanced Terrain Tools\"",
+      "commandLineArgs": "-project \"C:/Users/willi/OneDrive/Documents/Flax Projects/HybridProceduralTerrain_FLaxEngine\"",
+      "nativeDebugging": false
+    },
+    "AdvancedTerrainToolsEditor": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/Users/willi/OneDrive/Documents/Flax Projects/HybridProceduralTerrain_FLaxEngine",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_1.11/Binaries/Editor/Win64/Development/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/Users/willi/OneDrive/Documents/Flax Projects/HybridProceduralTerrain_FLaxEngine\"",
       "nativeDebugging": false
     }
   }
